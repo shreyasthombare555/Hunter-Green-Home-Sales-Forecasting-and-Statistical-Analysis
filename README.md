@@ -6,6 +6,12 @@ Project Overview: Hunters Green is a gated residential community in Tampa about 
 
 2) **Sale price of home (pricesold)** based on relevant attributes in this data set.
 
+# Business Value
+
+i) Insights from the analysis can prove vital for a real estate company in analyzing trends pertaining to the house sales in a particular locality. Moreover, this analysis will enable real estate firm to forecast Agent Days on Market, Cumulative Days on Market and Price Sold for the property. 
+
+ii) Insights extracted from the analysis will prove beneficial for the organization dealing with services such as buying, selling, insuring, financing, and restructuring the property and will help officials to evaluate KPI's thus easing the process of decision making. 
+
 # Data Set Description
 
 I worked on actual data on all home sold in this community over the period 2015-2020. The Dataset had relevant fetures pertaining to the demographics of the house, locality, and tenure since the house was listed. 
