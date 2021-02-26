@@ -34,7 +34,7 @@ I worked on actual data on all home sold in this community over the period 2015-
 
 # Model Interpretations and Insights
  
-Agent Days on Market - Top Predictor Marginal Effect 
+**Agent Days on Market - Top Predictor Marginal Effect** 
 
 i) Cumulative Days on Market - 1 day increase in CDOM will increase ADOM days by 0.68 unit. This variable was significant in the model.
 
@@ -42,7 +42,7 @@ ii) Square Feet Area - I unit increase in SQFT will decrease ADOM days by 0.0155
 
 iii) Roof Type - Roof Type is directly related to ADOM. ADOM can marginally change by 2.29 as per the variations in the roof type.
 
-Price Sold - Top Predictor Marginal Effect
+**Price Sold - Top Predictor Marginal Effect**
 
 i) Square Feet Area - 1 unit increase in SQFT will increase price sold by 23.52.
 
